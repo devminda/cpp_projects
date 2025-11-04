@@ -1,0 +1,5 @@
+﻿  hanoi.cpp
+C:\Users\Devminda\OneDrive\Documents\university of Illinois\Financial Computing\Homework\Homework 2\HanoiTower\hanoi.cpp(132,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  HanoiTower.vcxproj -> C:\Users\Devminda\OneDrive\Documents\university of Illinois\Financial Computing\Homework\Homework 2\HanoiTower\x64\Debug\HanoiTower.exe
